@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/MallelaDevi/leetcode/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/MallelaDevi/leetcode/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/MallelaDevi/leetcode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/MallelaDevi/leetcode/tree/master/0268-missing-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/MallelaDevi/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/MallelaDevi/leetcode/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/MallelaDevi/leetcode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/MallelaDevi/leetcode/tree/master/0268-missing-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/MallelaDevi/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 ## Binary Search
