@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MallelaDevi/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/MallelaDevi/leetcode/tree/master/0011-container-with-most-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MallelaDevi/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/MallelaDevi/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/MallelaDevi/leetcode/tree/master/0137-single-number-ii) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MallelaDevi/leetcode/tree/master/0011-container-with-most-water) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/MallelaDevi/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MallelaDevi/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/MallelaDevi/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
