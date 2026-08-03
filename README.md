@@ -12,12 +12,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MallelaDevi/leetcode/tree/master/0268-missing-number) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/MallelaDevi/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/MallelaDevi/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/MallelaDevi/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MallelaDevi/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/MallelaDevi/leetcode/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/MallelaDevi/leetcode/tree/master/0268-missing-number) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/MallelaDevi/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2370-longest-ideal-subsequence](https://github.com/MallelaDevi/leetcode/tree/master/2370-longest-ideal-subsequence) |
 ## Math
 |  |
