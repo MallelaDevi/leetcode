@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/MallelaDevi/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/MallelaDevi/leetcode/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/MallelaDevi/leetcode/tree/master/0268-missing-number) |
+| [2370-longest-ideal-subsequence](https://github.com/MallelaDevi/leetcode/tree/master/2370-longest-ideal-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/MallelaDevi/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/MallelaDevi/leetcode/tree/master/0020-valid-parentheses) |
+| [2370-longest-ideal-subsequence](https://github.com/MallelaDevi/leetcode/tree/master/2370-longest-ideal-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MallelaDevi/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [2370-longest-ideal-subsequence](https://github.com/MallelaDevi/leetcode/tree/master/2370-longest-ideal-subsequence) |
 ## Greedy
 |  |
 | ------- |
