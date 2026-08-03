@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/MallelaDevi/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/MallelaDevi/leetcode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/MallelaDevi/leetcode/tree/master/0268-missing-number) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/MallelaDevi/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/MallelaDevi/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/MallelaDevi/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/MallelaDevi/leetcode/tree/master/0020-valid-parentheses) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/MallelaDevi/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2370-longest-ideal-subsequence](https://github.com/MallelaDevi/leetcode/tree/master/2370-longest-ideal-subsequence) |
 ## Stack
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/MallelaDevi/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/MallelaDevi/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
