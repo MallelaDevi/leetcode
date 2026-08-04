@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/MallelaDevi/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/MallelaDevi/leetcode/tree/master/0020-valid-parentheses) |
+| [0345-reverse-vowels-of-a-string](https://github.com/MallelaDevi/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/MallelaDevi/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2370-longest-ideal-subsequence](https://github.com/MallelaDevi/leetcode/tree/master/2370-longest-ideal-subsequence) |
 ## Stack
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MallelaDevi/leetcode/tree/master/0011-container-with-most-water) |
+| [0345-reverse-vowels-of-a-string](https://github.com/MallelaDevi/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/MallelaDevi/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
